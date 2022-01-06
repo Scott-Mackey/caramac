@@ -1,0 +1,2 @@
+# caramac
+Caramac Crypto Coin
